@@ -1,0 +1,15 @@
+C:\Users\mcculb\source\repos\Task-1-conversion tool\Task-1-conversion tool\bin\Debug\Task-1-conversion tool.exe.config
+C:\Users\mcculb\source\repos\Task-1-conversion tool\Task-1-conversion tool\bin\Debug\Task-1-conversion tool.exe
+C:\Users\mcculb\source\repos\Task-1-conversion tool\Task-1-conversion tool\bin\Debug\Task-1-conversion tool.pdb
+C:\Users\mcculb\source\repos\Task-1-conversion tool\Task-1-conversion tool\obj\Debug\Task-1-conversion tool.csproj.AssemblyReference.cache
+C:\Users\mcculb\source\repos\Task-1-conversion tool\Task-1-conversion tool\obj\Debug\Task-1-conversion tool.csproj.SuggestedBindingRedirects.cache
+C:\Users\mcculb\source\repos\Task-1-conversion tool\Task-1-conversion tool\obj\Debug\Task_1_conversion_tool.Properties.Resources.resources
+C:\Users\mcculb\source\repos\Task-1-conversion tool\Task-1-conversion tool\obj\Debug\Task-1-conversion tool.csproj.GenerateResource.cache
+C:\Users\mcculb\source\repos\Task-1-conversion tool\Task-1-conversion tool\obj\Debug\Task-1-conversion tool.csproj.CoreCompileInputs.cache
+C:\Users\mcculb\source\repos\Task-1-conversion tool\Task-1-conversion tool\obj\Debug\Task-1-conversion tool.exe
+C:\Users\mcculb\source\repos\Task-1-conversion tool\Task-1-conversion tool\obj\Debug\Task-1-conversion tool.pdb
+C:\Users\mcculb\source\repos\Task-1-conversion tool\Task-1-conversion tool\obj\Debug\Task_1_conversion_tool.Form1.resources
+C:\Users\mcculb\source\repos\Task-1-conversion tool\Task-1-conversion tool\bin\Debug\Task-1-conversion tool.exe.manifest
+C:\Users\mcculb\source\repos\Task-1-conversion tool\Task-1-conversion tool\bin\Debug\Task-1-conversion tool.application
+C:\Users\mcculb\source\repos\Task-1-conversion tool\Task-1-conversion tool\obj\Debug\Task-1-conversion tool.exe.manifest
+C:\Users\mcculb\source\repos\Task-1-conversion tool\Task-1-conversion tool\obj\Debug\Task-1-conversion tool.application
